@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "340910273472",
+    "project_id": "jawaban-wow",
+    "storage_bucket": "jawaban-wow.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:340910273472:android:e382354fe29e5cebb64e25",
+        "android_client_info": {
+          "package_name": "com.kng.jawaban.wow.kata"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGK2F3ZBVm7rg6cKJ1hVM9ijl7FXeKsEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
