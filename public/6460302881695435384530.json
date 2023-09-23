@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "192999064110",
+    "project_id": "tvmy-fa6ae",
+    "storage_bucket": "tvmy-fa6ae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:192999064110:android:13de89ef7561ab716395bf",
+        "android_client_info": {
+          "package_name": "com.kng.tvmy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmA_DkKX3JxwU9636bmmYpk8T2L-tUXbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
